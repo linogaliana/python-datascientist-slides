@@ -867,7 +867,8 @@ répondant à une <span class="orange"><strong>démarche scientifique et ouverte
       });
         var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
         var mailtoRegex = new RegExp(/^mailto:/);
-          var filterRegex = new RegExp("https:\/\/slidespython\.linogaliana\.fr");
+          var filterRegex = new RegExp("https:\/\/slidespython\.linogaliana\.fr
+    www\.slidespython\.linogaliana\.fr");
         var isInternal = (href) => {
             return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
         }
