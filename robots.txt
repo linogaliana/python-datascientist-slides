@@ -1,2 +1,1 @@
-Sitemap: https://slidespython.linogaliana.fr
-www.slidespython.linogaliana.fr/sitemap.xml
+Sitemap: https://slidespython.linogaliana.fr/sitemap.xml
