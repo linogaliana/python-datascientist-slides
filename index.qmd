@@ -2,11 +2,12 @@
 title: Python pour la data science
 subtitle: |
   **[Un cours complet pour découvrir le langage {{< fa brands python >}}]{.orange}**
-author: |
-    [Lino Galiana](https://www.linogaliana.fr/)
-institute: |
-    [Lino Galiana](https://www.linogaliana.fr/)
-date: 24/09/2024
+author:   
+  - name: "[Lino Galiana](https://www.linogaliana.fr/)"
+    affiliations:
+        - name: "Insee"
+date: 2024-09-24
+date-format: short
 slide-number: true
 footer: |
   **_Python pour la data science_, ENSAE (Retour sur [pythonds.linogaliana.fr](https://pythonds.linogaliana.fr/))**
