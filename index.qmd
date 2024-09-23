@@ -110,11 +110,11 @@ from: markdown+emoji
 <a href="https://datalab.sspcloud.fr/launcher/ide/vscode-python?autoLaunch=true&amp;onyxia.friendlyName=%C2%AB02_pandas_intro%C2%BB&amp;init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-vscode.sh%C2%BB&amp;init.personalInitArgs=%C2%ABmanipulation%2002_pandas_intro%C2%BB&amp;security.allowlist.enabled=false" target="_blank" rel="noopener" data-original-href="https://datalab.sspcloud.fr/launcher/ide/vscode-python?autoLaunch=true&amp;onyxia.friendlyName=%C2%AB02_pandas_intro%C2%BB&amp;init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-vscode.sh%C2%BB&amp;init.personalInitArgs=%C2%ABmanipulation%2002_pandas_intro%C2%BB&amp;security.allowlist.enabled=false"><img src="https://img.shields.io/badge/SSP%20Cloud-Tester_avec_VSCode-blue?logo=visualstudiocode&amp;logoColor=blue" alt="Onyxia"></a>
 <a href="https://datalab.sspcloud.fr/launcher/ide/jupyter-python?autoLaunch=true&amp;onyxia.friendlyName=%C2%AB02_pandas_intro%C2%BB&amp;init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-jupyter.sh%C2%BB&amp;init.personalInitArgs=%C2%ABmanipulation%2002_pandas_intro%C2%BB&amp;security.allowlist.enabled=false" target="_blank" rel="noopener" data-original-href="https://datalab.sspcloud.fr/launcher/ide/jupyter-python?autoLaunch=true&amp;onyxia.friendlyName=%C2%AB02_pandas_intro%C2%BB&amp;init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-jupyter.sh%C2%BB&amp;init.personalInitArgs=%C2%ABmanipulation%2002_pandas_intro%C2%BB&amp;security.allowlist.enabled=false"><img src="https://img.shields.io/badge/SSP%20Cloud-Tester_avec_Jupyter-orange?logo=Jupyter&amp;logoColor=orange" alt="Onyxia"></a>
 
-:::{.callout-warning}
+:::{.callout-important}
 
-## Recommandation
+## Environnement pour les TD
 
-Privilégier `VSCode` sur le [`SSPCloud` https://datalab.sspcloud.fr](https://datalab.sspcloud.fr/home) (pas de _debug_ garanti sur d'autres environnements)
+Vous devez utiliser le [`SSPCloud` https://datalab.sspcloud.fr](https://datalab.sspcloud.fr/home) pour les TD et il est recommandé de privilégier `VSCode` dessus  (pas de _debug_ garanti sur d'autres environnements)
 
 <a href="https://datalab.sspcloud.fr/launcher/ide/vscode-python?autoLaunch=true&amp;onyxia.friendlyName=%C2%AB02_pandas_intro%C2%BB&amp;init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-vscode.sh%C2%BB&amp;init.personalInitArgs=%C2%ABmanipulation%2002_pandas_intro%C2%BB&amp;security.allowlist.enabled=false" target="_blank" rel="noopener" data-original-href="https://datalab.sspcloud.fr/launcher/ide/vscode-python?autoLaunch=true&amp;onyxia.friendlyName=%C2%AB02_pandas_intro%C2%BB&amp;init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-vscode.sh%C2%BB&amp;init.personalInitArgs=%C2%ABmanipulation%2002_pandas_intro%C2%BB&amp;security.allowlist.enabled=false"><img src="https://img.shields.io/badge/SSP%20Cloud-Tester_avec_VSCode-blue?logo=visualstudiocode&amp;logoColor=blue" alt="Onyxia"></a>
 
@@ -164,3 +164,23 @@ répondant à une [__démarche scientifique et ouverte__]{.orange}:
 **Deadline en décembre 2024**, date précisée ultérieurement
 
 :::
+
+## Exemple d'accès aux ressources `Pandas` 
+
+:::: {.columns}
+
+::: {.column width="50%"}
+[![](pandaqr2.png){width=100%}](https://pythonds.linogaliana.fr/content/manipulation/02_pandas_intro.html)
+
+
+_Par le biais direct du site [pythonds.linogaliana.fr/](https://pythonds.linogaliana.fr/content/manipulation/02_pandas_intro.html)_
+:::
+
+::: {.column width="50%"}
+[![](onyxia-qrcode4.png){width=100%}](https://www.sspcloud.fr/formation)
+
+_Par le biais du portail de formation du [www.sspcloud.fr/formation/](https://www.sspcloud.fr/formation)_
+
+:::
+
+::::
