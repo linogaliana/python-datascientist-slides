@@ -25,7 +25,7 @@
     "href": "index.html#contenu-mis-à-disposition",
     "title": "Python pour la data science",
     "section": "Contenu mis à disposition",
-    "text": "Contenu mis à disposition\n\n\nPoints d’entrée principaux :\n\nSite web : https://pythonds.linogaliana.fr/ ;\nDépôt Github  : https://github.com/linogaliana/python-datascientist\n\n Star this website on Github102\n\n\n\n\n\nDes tutoriels et exercices sous format Jupyter Notebook :\n\nPossibilité de les tester sur des environnements temporaires d’exécution\n\n\n\n\n\n\n\n\n\n\nEnvironnement pour les TD\n\n\nVous devez utiliser le SSPCloud https://datalab.sspcloud.fr pour les TD et il est recommandé de privilégier VSCode dessus (pas de debug garanti sur d’autres environnements)"
+    "text": "Contenu mis à disposition\n\n\nPoints d’entrée principaux :\n\nSite web : https://pythonds.linogaliana.fr/ ;\nDépôt Github  : https://github.com/linogaliana/python-datascientist\n\n Star this website on Github140\n\n\n\n\n\nDes tutoriels et exercices sous format Jupyter Notebook :\n\nPossibilité de les tester sur des environnements temporaires d’exécution\n\n\n\n\n\n\n\n\n\n\nEnvironnement pour les TD\n\n\nVous devez utiliser le SSPCloud https://datalab.sspcloud.fr pour les TD et il est recommandé de privilégier VSCode dessus (pas de debug garanti sur d’autres environnements)"
   },
   {
     "objectID": "index.html#exemple-daccès-aux-ressources-pandas",
