@@ -1,8 +1,6 @@
 project:
   type: website
 
-filters:
-   - lightbox
 lightbox: auto
 
 author: Lino Galiana
