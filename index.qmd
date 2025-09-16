@@ -14,7 +14,7 @@ footer: |
 # uncomment for French presentations:
 lang: fr-FR
 # for blind readers:
-slide-tone: true
+slide-tone: false
 # for @olevitt:
 #chalkboard: # press the B key to toggle chalkboard
 #  theme: whiteboard
