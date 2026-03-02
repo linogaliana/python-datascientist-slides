@@ -176,7 +176,7 @@ répondant à une [__démarche scientifique et ouverte__]{.orange}:
 
 . . .
 
-* **Deadline en décembre 2025**, date précisée ultérieurement
+* **Deadline le 20 avril 2026**
 
 ::: {.callout-tip}
 ## Exemples de sujets passés
@@ -184,8 +184,11 @@ répondant à une [__démarche scientifique et ouverte__]{.orange}:
 + Création d'un système de réponse automatique aux tweets mentionnant la RATP ;
 + Si les bouchers charcutiers observent mieux la criminalité que l'Insee, est-ce parce qu'ils s'installent là où le crime sévit ?
 + Visualiser les performances des athlètes sur des courses niveau amateur ou professionel ;
-+ Analyse de langage sur les discours des députés français ;
 + Comparer la performance de modèles de gestion de portefeuille ;
+
+<!--- retiré pour ENSAI où pas de NLP 
++ Analyse de langage sur les discours des députés français ;
 + Statistiques sur les prénoms dans les nominations en cabinets ministériels. 
+---->
 :::
 
