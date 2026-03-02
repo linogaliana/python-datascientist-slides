@@ -6,11 +6,11 @@ author:
   - name: "[Lino Galiana](https://www.linogaliana.fr/)"
     affiliations:
         - name: "Insee"
-date: 2025-09-16
+date: 2025-03-02
 date-format: short
 slide-number: true
 footer: |
-  **_Python pour la data science_, ENSAE (Retour sur [pythonds.linogaliana.fr](https://pythonds.linogaliana.fr/))**
+  **_Python pour la data science_, ENSAE & ENSAI (Retour sur [pythonds.linogaliana.fr](https://pythonds.linogaliana.fr/))**
 # uncomment for French presentations:
 lang: fr-FR
 # for blind readers:
@@ -76,7 +76,11 @@ from: markdown+emoji
 
 <br><br>
 
+<!---
 * Cours dure [__21h__]{.orange} avec des __séances de 3h__ ;
+---->
+
+* Cours dure [__18h__]{.orange} avec des __séances de 3h__ ;
 
 . . .
 
@@ -85,8 +89,9 @@ from: markdown+emoji
 . . .
 
 
-* Validation avec un [__projet de fin de semestre__]{.orange}
+* Validation avec un [__projet de fin de semestre__]{.orange} et un [__devoir maison intermédiaire__]{.orange}
     + Plus de détails dans quelques instants
+ 
 
 . . .
 
@@ -121,15 +126,15 @@ Vous devez utiliser le [`SSPCloud` https://datalab.sspcloud.fr](https://datalab.
 
 :::: {.columns}
 
-::: {.column width="50%"}
-[![](pandaqr2.png){width=100%}](https://pythonds.linogaliana.fr/content/manipulation/02_pandas_intro.html)
+::: {.column width="45%"}
+[![](pandaqr2.png){width=80%}](https://pythonds.linogaliana.fr/content/manipulation/02_pandas_intro.html)
 
 
 _Par le biais direct du site [pythonds.linogaliana.fr/](https://pythonds.linogaliana.fr/content/manipulation/02_pandas_intro.html)_
 :::
 
-::: {.column width="50%"}
-[![](onyxia-qrcode4.png){width=100%}](https://www.sspcloud.fr/formation)
+::: {.column width="45%"}
+[![](onyxia-qrcode4.png){width=80%}](https://www.sspcloud.fr/formation)
 
 _Par le biais du portail de formation du [www.sspcloud.fr/formation/](https://www.sspcloud.fr/formation)_
 

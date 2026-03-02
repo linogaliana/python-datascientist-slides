@@ -148,3 +148,5 @@ pip-selfcheck.json
 .Rhistory
 
 /.quarto/
+
+**/*.quarto_ipynb
