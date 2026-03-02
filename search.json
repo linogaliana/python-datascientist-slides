@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "LICENSE.html",
+    "href": "LICENSE.html",
+    "title": "",
+    "section": "",
+    "text": "Ce document et les fichiers qui le constituent sont mis à disposition sous licence\nCreative Commons Attribution Pas d’Utilisation Commerciale Partage à l’Identique 4.0\nInternational :\nhttps://creativecommons.org/licenses/by-nc-sa/4.0/\n\n\n\nCitationBibTeX citation:@book{galiana2023,\n  author = {Galiana, Lino},\n  title = {Python Pour La Data Science},\n  date = {2023},\n  url = {https://pythonds.linogaliana.fr/},\n  doi = {10.5281/zenodo.8229676},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nGaliana, Lino. 2023. Python Pour La Data Science. https://doi.org/10.5281/zenodo.8229676."
+  },
+  {
     "objectID": "index.html#présentation",
     "href": "index.html#présentation",
     "title": "Python pour la data science",
@@ -18,7 +25,7 @@
     "href": "index.html#organisation-du-cours",
     "title": "Python pour la data science",
     "section": "Organisation du cours",
-    "text": "Organisation du cours\n\n\nCours dure 21h avec des séances de 3h ;\n\n\n\nApprentissage par la pratique à partir de TP ;\n\n\n\n\nValidation avec un projet de fin de semestre\n\nPlus de détails dans quelques instants"
+    "text": "Organisation du cours\n\n\n\nCours dure 18h avec des séances de 3h ;\n\n\n\nApprentissage par la pratique à partir de TP ;\n\n\n\n\nValidation avec un projet de fin de semestre et un devoir maison intermédiaire\n\nPlus de détails dans quelques instants"
   },
   {
     "objectID": "index.html#contenu-mis-à-disposition",
@@ -47,12 +54,5 @@
     "title": "Python pour la data science",
     "section": "Examen",
     "text": "Examen\n\nApprofondir des aspects du cours:\n\nTrois dimensions doivent être présentes dans le projet: manipuler, visualiser ou modéliser ;\nPlus ou moins loin selon les projets.\n\n\n\n\nDeadline en décembre 2025, date précisée ultérieurement\n\n\n\n\n\n\n\nExemples de sujets passés\n\n\n\nCréation d’un système de réponse automatique aux tweets mentionnant la RATP ;\nSi les bouchers charcutiers observent mieux la criminalité que l’Insee, est-ce parce qu’ils s’installent là où le crime sévit ?\nVisualiser les performances des athlètes sur des courses niveau amateur ou professionel ;\nAnalyse de langage sur les discours des députés français ;\nComparer la performance de modèles de gestion de portefeuille ;\nStatistiques sur les prénoms dans les nominations en cabinets ministériels."
-  },
-  {
-    "objectID": "LICENSE.html",
-    "href": "LICENSE.html",
-    "title": "",
-    "section": "",
-    "text": "Ce document et les fichiers qui le constituent sont mis à disposition sous licence\nCreative Commons Attribution Pas d’Utilisation Commerciale Partage à l’Identique 4.0\nInternational :\nhttps://creativecommons.org/licenses/by-nc-sa/4.0/\n\n\n\nCitationBibTeX citation:@book{galiana2023,\n  author = {Galiana, Lino},\n  title = {Python Pour La Data Science},\n  date = {2023},\n  url = {https://pythonds.linogaliana.fr/},\n  doi = {10.5281/zenodo.8229676},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nGaliana, Lino. 2023. Python Pour La Data Science. https://doi.org/10.5281/zenodo.8229676."
   }
 ]
