@@ -52,7 +52,7 @@ from: markdown+emoji
     + Récupérer et structurer des données ;
     + Manipuler ;
     + Visualiser ;
-    + Modéliser ;
+    + <del>Modéliser</del> *(Modélisation au S2)* ;
     + Le cas spécifique des données textuelles.
 
 . . .
@@ -80,7 +80,7 @@ from: markdown+emoji
 * Cours dure [__21h__]{.orange} avec des __séances de 3h__ ;
 ---->
 
-* Cours dure [__18h__]{.orange} avec des __séances de 3h__ ;
+* Cours dure [__15h__]{.orange} avec des __séances de 3h__ ;
 
 . . .
 
@@ -89,7 +89,7 @@ from: markdown+emoji
 . . .
 
 
-* Validation avec un [__projet de fin de semestre__]{.orange} et un [__devoir maison intermédiaire__]{.orange}
+* Validation avec un [__projet de fin de semestre__]{.orange}
     + Plus de détails dans quelques instants
  
 
@@ -102,7 +102,7 @@ from: markdown+emoji
 
 * __Points d'entrée principaux__ :
     + Site web {{< fa brands firefox >}}: <https://pythonds.linogaliana.fr/> ;
-    + Dépôt `Github` {{< fa brands github >}} : <https://github.com/linogaliana/python-datascientist> <div class="widget widget-lg"><a class="btn" href="https://github.com/linogaliana/python-datascientist" rel="noopener" target="_blank" aria-label="Star this website on Github"><svg viewBox="0 0 16 16" width="16" height="16" class="octicon octicon-star" aria-hidden="true"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path></svg>&nbsp;<span>Star this website on Github</span></a><a class="social-count" href="https://github.com/linogaliana/python-datascientist/stargazers" rel="noopener" target="_blank" aria-label="102 stargazers on GitHub">140</a></div>
+    + Dépôt `Github` {{< fa brands github >}} : <https://github.com/linogaliana/python-datascientist> <div class="widget widget-lg"><a class="btn" href="https://github.com/linogaliana/python-datascientist" rel="noopener" target="_blank" aria-label="Star this website on Github"><svg viewBox="0 0 16 16" width="16" height="16" class="octicon octicon-star" aria-hidden="true"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path></svg>&nbsp;<span>Star this website on Github</span></a><a class="social-count" href="https://github.com/linogaliana/python-datascientist/stargazers" rel="noopener" target="_blank" aria-label="179 stargazers on GitHub">179</a></div>
 
 . . .
 
@@ -110,16 +110,15 @@ from: markdown+emoji
     + Possibilité de les tester sur des environnements temporaires d'exécution
 
 <a href="https://datalab.sspcloud.fr/launcher/ide/vscode-python?autoLaunch=true&amp;onyxia.friendlyName=%C2%AB02_pandas_intro%C2%BB&amp;init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-vscode.sh%C2%BB&amp;init.personalInitArgs=%C2%ABmanipulation%2002_pandas_intro%C2%BB&amp;security.allowlist.enabled=false" target="_blank" rel="noopener" data-original-href="https://datalab.sspcloud.fr/launcher/ide/vscode-python?autoLaunch=true&amp;onyxia.friendlyName=%C2%AB02_pandas_intro%C2%BB&amp;init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-vscode.sh%C2%BB&amp;init.personalInitArgs=%C2%ABmanipulation%2002_pandas_intro%C2%BB&amp;security.allowlist.enabled=false"><img src="https://img.shields.io/badge/SSP%20Cloud-Tester_avec_VSCode-blue?logo=visualstudiocode&amp;logoColor=blue" alt="Onyxia"></a>
-<a href="https://datalab.sspcloud.fr/launcher/ide/jupyter-python?autoLaunch=true&amp;onyxia.friendlyName=%C2%AB02_pandas_intro%C2%BB&amp;init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-jupyter.sh%C2%BB&amp;init.personalInitArgs=%C2%ABmanipulation%2002_pandas_intro%C2%BB&amp;security.allowlist.enabled=false" target="_blank" rel="noopener" data-original-href="https://datalab.sspcloud.fr/launcher/ide/jupyter-python?autoLaunch=true&amp;onyxia.friendlyName=%C2%AB02_pandas_intro%C2%BB&amp;init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-jupyter.sh%C2%BB&amp;init.personalInitArgs=%C2%ABmanipulation%2002_pandas_intro%C2%BB&amp;security.allowlist.enabled=false"><img src="https://img.shields.io/badge/SSP%20Cloud-Tester_avec_Jupyter-orange?logo=Jupyter&amp;logoColor=orange" alt="Onyxia"></a>
+
 
 :::{.callout-important}
 
 ## Environnement pour les TD
 
-Vous devez utiliser le [`SSPCloud` https://datalab.sspcloud.fr](https://datalab.sspcloud.fr/home) pour les TD et il est recommandé de privilégier `VSCode` dessus  (pas de _debug_ garanti sur d'autres environnements)
+Vous devez utiliser le [`SSPCloud` https://datalab.sspcloud.fr](https://datalab.sspcloud.fr/home) pour les TD. 
 
-<a href="https://datalab.sspcloud.fr/launcher/ide/vscode-python?autoLaunch=true&amp;onyxia.friendlyName=%C2%AB02_pandas_intro%C2%BB&amp;init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-vscode.sh%C2%BB&amp;init.personalInitArgs=%C2%ABmanipulation%2002_pandas_intro%C2%BB&amp;security.allowlist.enabled=false" target="_blank" rel="noopener" data-original-href="https://datalab.sspcloud.fr/launcher/ide/vscode-python?autoLaunch=true&amp;onyxia.friendlyName=%C2%AB02_pandas_intro%C2%BB&amp;init.personalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2Flinogaliana%2Fpython-datascientist%2Fmaster%2Fsspcloud%2Finit-vscode.sh%C2%BB&amp;init.personalInitArgs=%C2%ABmanipulation%2002_pandas_intro%C2%BB&amp;security.allowlist.enabled=false"><img src="https://img.shields.io/badge/SSP%20Cloud-Tester_avec_VSCode-blue?logo=visualstudiocode&amp;logoColor=blue" alt="Onyxia"></a>
-
+Les autres boutons sont pour les malheureux qui n'y ont pas accès. 
 :::
 
 ## Exemple d'accès aux ressources `Pandas` 
@@ -160,7 +159,7 @@ répondant à une [__démarche scientifique et ouverte__]{.orange}:
 :::{.callout-important}
 
 * Exigence de [__reproductibilité__]{.orange}
-    + Projet utilisant des __sources *open data*__ ou scrappant des sites publics ; 
+    + Projet utilisant des __sources *open data*__ ou scrappant des sites publics (⚠️ scraping = risque de galère) ; 
     + Code doit pouvoir être __répliqué__ par chargé TD ;
     + [__Pas un projet Kaggle !__]{.orange}
 
@@ -171,7 +170,7 @@ répondant à une [__démarche scientifique et ouverte__]{.orange}:
 ## Examen {.smaller}
 
 * __Approfondir__ des aspects du cours: 
-    + [__Trois dimensions__]{.orange} doivent être présentes dans le projet: manipuler, visualiser ou modéliser ;
+    + [__Trois dimensions__]{.orange} doivent être présentes dans le projet: récupération, manipulation, visualisation ;
     + Plus ou moins loin selon les projets.
 
 . . .
@@ -185,10 +184,7 @@ répondant à une [__démarche scientifique et ouverte__]{.orange}:
 + Si les bouchers charcutiers observent mieux la criminalité que l'Insee, est-ce parce qu'ils s'installent là où le crime sévit ?
 + Visualiser les performances des athlètes sur des courses niveau amateur ou professionel ;
 + Comparer la performance de modèles de gestion de portefeuille ;
-
-<!--- retiré pour ENSAI où pas de NLP 
 + Analyse de langage sur les discours des députés français ;
 + Statistiques sur les prénoms dans les nominations en cabinets ministériels. 
----->
 :::
 
