@@ -6,7 +6,7 @@ author:
   - name: "[Lino Galiana](https://www.linogaliana.fr/)"
     affiliations:
         - name: "Insee"
-date: 2025-03-02
+date: 2026-09-14
 date-format: short
 slide-number: true
 footer: |
